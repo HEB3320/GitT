@@ -7,6 +7,7 @@ public class First {
         //mmm
         System.out.println("Engin Bekem 3333");
         System.out.println("Hayri Bekem");
+        //local
         //comment
     }
 }
